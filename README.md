@@ -13,6 +13,7 @@
     </div>
     <br/>
   <h3>:sunny: Contact & Channel</h3>
+  <p>email : a328028@gmail.com</p>
   <div justify=center>
 Blog:<a href="https://hopak-e.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
   </div>
